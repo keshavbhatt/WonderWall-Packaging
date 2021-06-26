@@ -4,7 +4,7 @@ Different installable packages for [Wonderwall application](https://snapcraft.io
 ## Latest Release:
 Check the [Latest release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest) for Download Links.
 
-#### Powerful Desktop Wallpaper manager for Linux and Windows Desktop
+## WonderWall is a Powerful Desktop Wallpaper manager for Linux and Windows Desktop
 
 Wonderwall is a desktop wallpaper downloader/manager utility that allows you to browse download and apply wallpaper from huge collection of wallpapers.
 
