@@ -1,5 +1,8 @@
-# WonderWall distributables
+# WonderWall distributable:
 Different installable packages for [Wonderwall application](https://snapcraft.io/wonderwall)
+
+## Latest Release:
+Check the [Latest release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest) for Download Links.
 
 #### Powerful Desktop Wallpaper manager for Linux and Windows Desktop
 
@@ -25,6 +28,3 @@ Download location is browsable from settings. Click "Open" button in wallpaper d
 ![Wonderwall wallpaper manager walpaper categories](https://i1.wp.com/www.ktechpit.com/wp-content/uploads/2021/06/ksnip_20210626-122946.jpg)
 ![Wonderwall wallpaper manager settings dialog](https://i2.wp.com/www.ktechpit.com/wp-content/uploads/2021/06/ksnip_20210626-123143.jpg)
 ![Wonderwall wallpaper manager filters widget](https://i0.wp.com/www.ktechpit.com/wp-content/uploads/2021/06/ksnip_20210626-123239.jpg)
-
-
-Check the [Latest release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest) for Download Links.
