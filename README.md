@@ -8,7 +8,8 @@ Check the [Latest release page](https://github.com/keshavbhatt/WonderWall-Packag
 
 * [Microsoft Windows store](https://www.microsoft.com/en-us/p/wonderwall-wallpaper-manager/9ngnl36nr0ft)
 * [Linux Snapcraft store](https://snapcraft.io/wonderwall)
-* [Other Downoad options can be found in Release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest)
+* [Linux Flathub store](https://flathub.org/apps/details/com.ktechpit.wonderwall)
+* [Other Downoad options including AppImage can be found in Release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest)
 
 ## WonderWall is a Powerful Desktop Wallpaper manager for Linux and Windows Desktop
 
