@@ -1,15 +1,27 @@
 # WonderWall distributable:
 Different installable packages for [Wonderwall application](https://snapcraft.io/wonderwall)
 
-## Latest Release:
+## Latest Release Wonderwall:
 Check the [Latest release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest) for Download Links.
 
-## Stores links:
+## Stores links and install instructions for wonderwall:
 
 * [Microsoft Windows store](https://www.microsoft.com/en-us/p/wonderwall-wallpaper-manager/9ngnl36nr0ft)
+	
+	`install using windows app store`	
+
 * [Linux Snapcraft store](https://snapcraft.io/wonderwall)
+	
+	`snap install wonderwall`
+
 * [Linux Flathub store](https://flathub.org/apps/details/com.ktechpit.wonderwall)
+	
+	`flatpak install flathub com.ktechpit.wonderwall`
+
 * [Arch Linux AUR](https://aur.archlinux.org/packages/wonderwall/)
+	
+	`yay -S wonderwall`
+
 * [Other Downoad options including AppImage can be found in Release page](https://github.com/keshavbhatt/WonderWall-Packaging/releases/latest)
 
 ## WonderWall is a Powerful Desktop Wallpaper manager for Linux and Windows Desktop
